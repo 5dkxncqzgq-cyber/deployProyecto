@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Martes from './components/Martes.vue'
 import SumBoton from './components/SumBoton.vue'
 </script>
 
 <template>
   <SumBoton />
-  <HelloWorld />
+  <Martes />
 </template>
