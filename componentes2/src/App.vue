@@ -1,9 +1,9 @@
 <script setup>
 import SumBoton from './components/SumBoton.vue'
-import Martes from './components/Martes.vue'
+import Prueba from './components/Prueba.vue'
 </script>
 
 <template>
   <SumBoton />
-  <Martes />
+  <Prueba />
 </template>
