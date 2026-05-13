@@ -1,6 +1,6 @@
 <script setup>
-import Martes from './components/Martes.vue'
 import SumBoton from './components/SumBoton.vue'
+import Martes from './components/Martes.vue'
 </script>
 
 <template>
